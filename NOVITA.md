@@ -1,5 +1,11 @@
 # Novità di OBDTool
 
+## 1.0.2 — 1 novembre 2026
+
+- Adattatori che funzionano sia in Bluetooth classico sia in Bluetooth LE: se il primo collegamento non riesce, OBDTool prova da solo l'altro.
+- 21 significati in più per i codici errore, tra cui quelli del filtro antiparticolato (DPF) dei diesel, delle perdite d'aria in aspirazione e della temperatura dei gas di scarico.
+- Quando l'adattatore Bluetooth non risponde, il messaggio ora dice cosa controllare (presa OBD, quadro acceso, distanza, altre app collegate).
+
 ## 1.0.1 — 1 novembre 2026
 
 - Accanto a ogni codice errore ora trovi cosa significa, in italiano (per esempio P0420: «Efficienza del catalizzatore sotto la soglia»). Funziona anche senza internet.
