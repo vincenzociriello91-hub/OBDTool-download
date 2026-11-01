@@ -22,7 +22,7 @@ Prima di collegarti gira la chiave su ON o avvia il motore.
 
 ## Cosa fa
 
-- **Codici errore**: legge quelli memorizzati e quelli in attesa, ti dice a quale impianto si riferiscono (motore, telaio, carrozzeria, rete) e li cerca sul web con un tocco. Puoi anche cancellarli e spegnere la spia motore.
+- **Codici errore**: legge quelli memorizzati e quelli in attesa, ti dice in italiano cosa significano (l'elenco si aggiorna da solo, senza installare niente) e a quale impianto si riferiscono (motore, telaio, carrozzeria, rete) e li cerca sul web con un tocco. Puoi anche cancellarli e spegnere la spia motore.
 - **Dati in tempo reale**: giri, velocità, temperature di liquido, olio e aria, carico, acceleratore, flusso d'aria, livello del carburante, tensione della batteria. Solo quelli che la tua auto supporta.
 - **Info auto**: numero di telaio (VIN), protocollo e modello dell'adattatore.
 - **Universale**: tutti i protocolli OBD-II (CAN, KWP2000, ISO 9141, J1850). In Europa l'OBD è obbligatorio sulle auto a benzina dal 2001 e diesel dal 2004.

@@ -1,5 +1,10 @@
 # Novità di OBDTool
 
+## 1.0.1 — 1 novembre 2026
+
+- Accanto a ogni codice errore ora trovi cosa significa, in italiano (per esempio P0420: «Efficienza del catalizzatore sotto la soglia»). Funziona anche senza internet.
+- L'elenco dei significati si aggiorna da solo, senza installare una versione nuova: ogni settimana se ne aggiungono altri.
+
 ## 1.0.0 — 1 novembre 2026
 
 - Prima versione di OBDTool: collega il telefono alla presa OBD dell'auto con un adattatore ELM327 (cloni, OBDLink, Vgate e compatibili) via Bluetooth, Bluetooth LE o Wi-Fi.
