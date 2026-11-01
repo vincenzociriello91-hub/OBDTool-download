@@ -1,0 +1,16 @@
+name: Suggerimento
+description: Un'idea o un problema inviato dall'app OBDTool
+title: "Suggerimento: "
+labels: ["suggerimento"]
+body:
+  - type: textarea
+    id: testo
+    attributes:
+      label: Il tuo suggerimento
+      description: Descrivi l'idea o il problema.
+    validations:
+      required: true
+  - type: input
+    id: dispositivo
+    attributes:
+      label: Dispositivo e versione dell'app
