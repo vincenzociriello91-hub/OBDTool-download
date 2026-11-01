@@ -4,9 +4,14 @@ P0010	Attuatore albero a camme A (banco 1): circuito	SAE J2012
 P0011	Albero a camme A (banco 1): anticipo eccessivo o prestazioni del sistema	SAE J2012
 P0012	Albero a camme A (banco 1): ritardo eccessivo	SAE J2012
 P0016	Correlazione posizione albero motore / albero a camme (banco 1, sensore A)	SAE J2012
+P0017	Correlazione posizione albero motore / albero a camme (banco 1, sensore B)	https://ricksfreeautorepairadvice.com/generic-obdii-p-code-list-p0001-p0099/
 P0020	Attuatore albero a camme A (banco 2): circuito	SAE J2012
 P0021	Albero a camme A (banco 2): anticipo eccessivo o prestazioni del sistema	SAE J2012
 P0022	Albero a camme A (banco 2): ritardo eccessivo	SAE J2012
+P0030	Sonda lambda banco 1 sensore 1: circuito di comando del riscaldatore	https://ricksfreeautorepairadvice.com/generic-obdii-p-code-list-p0001-p0099/
+P0036	Sonda lambda banco 1 sensore 2: circuito di comando del riscaldatore	https://ricksfreeautorepairadvice.com/generic-obdii-p-code-list-p0001-p0099/
+P0068	Correlazione tra MAP/MAF e posizione della farfalla	https://ricksfreeautorepairadvice.com/generic-obdii-p-code-list-p0001-p0099/
+P0069	Correlazione tra pressione collettore (MAP) e pressione barometrica	https://ricksfreeautorepairadvice.com/generic-obdii-p-code-list-p0001-p0099/
 P0087	Pressione del rail / impianto carburante troppo bassa	SAE J2012
 P0088	Pressione del rail / impianto carburante troppo alta	SAE J2012
 P0089	Regolatore pressione carburante: prestazioni	SAE J2012
@@ -222,6 +227,11 @@ P0443	Controllo emissioni evaporative (EVAP): circuito valvola di spurgo	SAE J20
 P0446	Controllo emissioni evaporative (EVAP): circuito di sfiato	SAE J2012
 P0455	Controllo emissioni evaporative (EVAP): grande perdita	SAE J2012
 P0456	Controllo emissioni evaporative (EVAP): perdita molto piccola	SAE J2012
+P0470	Sensore pressione gas di scarico A: circuito	https://ricksfreeautorepairadvice.com/generic-obdii-p-codes-p0400-p0499/
+P0471	Sensore pressione gas di scarico A: fuori campo o prestazioni	https://ricksfreeautorepairadvice.com/generic-obdii-p-codes-p0400-p0499/
+P0472	Sensore pressione gas di scarico A: segnale basso	https://ricksfreeautorepairadvice.com/generic-obdii-p-codes-p0400-p0499/
+P0473	Sensore pressione gas di scarico A: segnale alto	https://ricksfreeautorepairadvice.com/generic-obdii-p-codes-p0400-p0499/
+P0480	Ventola di raffreddamento 1: circuito di comando	https://ricksfreeautorepairadvice.com/generic-obdii-p-codes-p0400-p0499/
 P0500	Sensore velocità veicolo A	SAE J2012
 P0501	Sensore velocità veicolo A: fuori campo o prestazioni	SAE J2012
 P0502	Sensore velocità veicolo A: segnale basso	SAE J2012
@@ -229,6 +239,9 @@ P0503	Sensore velocità veicolo A: segnale intermittente o irregolare	SAE J2012
 P0505	Controllo del regime minimo: malfunzionamento	SAE J2012
 P0506	Regime minimo più basso del previsto	SAE J2012
 P0507	Regime minimo più alto del previsto	SAE J2012
+P0544	Sensore temperatura gas di scarico (banco 1 sensore 1): circuito	https://ricksfreeautorepairadvice.com/generic-obdii-p-codes-p0500-p0599/
+P0545	Sensore temperatura gas di scarico (banco 1 sensore 1): segnale basso	https://ricksfreeautorepairadvice.com/generic-obdii-p-codes-p0500-p0599/
+P0546	Sensore temperatura gas di scarico (banco 1 sensore 1): segnale alto	https://ricksfreeautorepairadvice.com/generic-obdii-p-codes-p0500-p0599/
 P0560	Tensione dell'impianto elettrico	SAE J2012
 P0562	Tensione dell'impianto elettrico bassa	SAE J2012
 P0563	Tensione dell'impianto elettrico alta	SAE J2012
@@ -239,6 +252,7 @@ P0603	Centralina: errore della memoria permanente (KAM)	SAE J2012
 P0604	Centralina: errore della memoria RAM	SAE J2012
 P0605	Centralina: errore della memoria ROM	SAE J2012
 P0606	Centralina: errore del processore	SAE J2012
+P0627	Pompa carburante A: circuito di comando aperto	https://ricksfreeautorepairadvice.com/generic-obdii-p-codes-p0600-p0699-definitions-and-causes/
 P0670	Modulo candelette di preriscaldamento: circuito	SAE J2012
 P0671	Candeletta cilindro 1: circuito	SAE J2012
 P0672	Candeletta cilindro 2: circuito	SAE J2012
@@ -260,7 +274,14 @@ P0735	Rapporto errato in 5ª marcia	SAE J2012
 P0736	Rapporto errato in retromarcia	SAE J2012
 P0740	Frizione del convertitore di coppia: circuito	SAE J2012
 P2002	Filtro antiparticolato (banco 1): efficienza sotto la soglia	SAE J2012
+P2096	Correzione carburante dopo il catalizzatore: miscela troppo magra (banco 1)	https://www.kbb.com/obd-ii/p2096
+P2097	Correzione carburante dopo il catalizzatore: miscela troppo grassa (banco 1)	https://autos.yahoo.com/ownership/articles/p2097-engine-code-explained-causes-204500208.html
+P2279	Perdita d'aria nell'impianto di aspirazione	https://repairpal.com/obd-ii-code-p2279
 P242F	Filtro antiparticolato: restrizione per accumulo di cenere	SAE J2012
+P2452	Sensore pressione filtro antiparticolato (DPF) A: circuito	https://repairpal.com/obd-ii-code-p2452-diesel-particulate-filter-pressure-sensor-a-circuit
+P2453	Sensore pressione filtro antiparticolato (DPF) A: fuori campo o prestazioni	https://partsavatar.ca/p2453-obd-ii-trouble-code-diesel-particulate-filter-pressure-sensor-a-circuit-range-performance
+P2454	Sensore pressione filtro antiparticolato (DPF) A: segnale basso	https://repairpal.com/obd-ii-code-p2454-diesel-particulate-filter-pressure-sensor-a-circuit-low
+P2455	Sensore pressione filtro antiparticolato (DPF) A: segnale alto	https://partsavatar.ca/p2455-obd-ii-trouble-code-diesel-particulate-filter-pressure-sensor-a-circuit-high-solution
 P2459	Filtro antiparticolato: rigenerazioni troppo frequenti	SAE J2012
 P2463	Filtro antiparticolato: accumulo di fuliggine	SAE J2012
 U0001	Bus di comunicazione CAN ad alta velocità	SAE J2012
