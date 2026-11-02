@@ -1,5 +1,9 @@
 # Novità di OBDTool
 
+## 1.0.3 — 2 novembre 2026
+
+- Quando l'adattatore Wi-Fi non risponde, il messaggio ora dice cosa controllare: presa OBD, quadro acceso e rete Wi-Fi dell'adattatore (non quella di casa).
+
 ## 1.0.2 — 1 novembre 2026
 
 - Adattatori che funzionano sia in Bluetooth classico sia in Bluetooth LE: se il primo collegamento non riesce, OBDTool prova da solo l'altro.
